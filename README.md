@@ -10,3 +10,8 @@
 
 - The course encourages students to learn about and investigate concepts related to cryptography, including key exchange, symmetric and asymmetric encryption,and cryptographic algorithms.
 - It can be applied to secure communication requirements where privacy is crucial or to educational objectives.
+
+
+# output
+- ![image](https://github.com/amrit23-web/CyberCypher/assets/98414882/e4f329ef-1b83-4dea-8938-2e4b111e88a7)
+
